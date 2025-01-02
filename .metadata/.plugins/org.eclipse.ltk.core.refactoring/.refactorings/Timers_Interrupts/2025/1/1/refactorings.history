@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Timers_Interrupts/Timers_NonBlocking.ioc&apos; to &apos;Timers_Interrupts.ioc&apos;" description="Rename resource &apos;Timers_NonBlocking.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Timers_NonBlocking.ioc" name="Timers_Interrupts.ioc" stamp="1735798832015" updateReferences="true"/>
+</session>

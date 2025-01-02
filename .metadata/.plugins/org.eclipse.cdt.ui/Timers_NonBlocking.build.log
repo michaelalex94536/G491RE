@@ -1,0 +1,10 @@
+22:19:06 **** Incremental Build of configuration Debug for project Timers_NonBlocking ****
+make -j8 all 
+arm-none-eabi-size  Timers_NonBlocking.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12936	     12	   1804	  14752	   39a0	Timers_NonBlocking.elf
+Finished building: default.size.stdout
+ 
+
+22:19:07 Build Finished. 0 errors, 0 warnings. (took 1s.244ms)
+
