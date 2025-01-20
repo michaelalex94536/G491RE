@@ -11,3 +11,4 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_EstimateTime\ Debug/acti
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_EstimateTime\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_Interrupts\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_PWM\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_PWM\ Debug/activeLaunchTarget=null\:---
