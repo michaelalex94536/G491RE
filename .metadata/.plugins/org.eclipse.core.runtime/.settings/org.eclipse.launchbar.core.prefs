@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_PWM Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_EstimateTime Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_Interrupts Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_NonBlocking Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_PWM Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BlinkV1\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BlinkV1\ Debug/activeLaunchTarget=null\:---
